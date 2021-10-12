@@ -71,7 +71,7 @@ public class App {
                         if(readers[i] != null){
                             System.out.println(readers[i].toString());
                         }
-                    }
+                    } 
                     System.out.println("-------------------");
                     break;
                 
