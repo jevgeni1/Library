@@ -40,6 +40,10 @@ public class Reader {
     public void setTelefone(String telefone) {
         this.telefone = telefone;
     }
+
+    public void setPhone(String nextLine) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
     
